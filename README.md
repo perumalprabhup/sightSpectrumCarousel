@@ -1,6 +1,9 @@
 # SightSpectrum
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.12.
+## Application Install
+
+Run `npm install` for application to install all the required packages.
 
 ## Development server
 
